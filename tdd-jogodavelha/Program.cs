@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace tdd_jogodavelha
+namespace monogame.W10
 {
     public static class Program
     {

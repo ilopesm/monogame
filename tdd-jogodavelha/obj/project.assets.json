@@ -7380,9 +7380,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\tdd-jogodavelha.csproj",
-      "projectName": "tdd-jogodavelha",
-      "projectPath": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\tdd-jogodavelha.csproj",
+      "projectUniqueName": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\monogame.W10.csproj",
+      "projectName": "monogame.W10",
+      "projectPath": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\monogame.W10.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leDTjqb7dRVHHzCTWUrnqtuQpGdw0vBRUzqTzjOv8FlIhVfdNQ1QFFAuvdWX/1Cg9u/2HKzsH+gq5L1UX3EISA==",
+  "dgSpecHash": "7rO6CgRmPVcSFU49vxe5W4nPwP+JOy/LANrIPpbN/QPFXeggAdOhP9uYCJgdOXNpt3+XGjvmaRA8l4P/K5udHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\tdd-jogodavelha.csproj",
+  "projectFilePath": "C:\\Users\\isaac\\Desktop\\monogame\\tdd-jogodavelha\\monogame.W10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaac\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\isaac\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
